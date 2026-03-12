@@ -5,7 +5,6 @@
 
   ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=for-the-badge&logo=python&logoColor=white)
   ![Discord.py](https://img.shields.io/badge/Discord.py-2.0%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-  ![AI Powered](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
   ![Release](https://img.shields.io/github/v/release/Wuji00000/Python-Discord-Bot-Template?style=for-the-badge&color=red)
 
