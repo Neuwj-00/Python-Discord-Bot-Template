@@ -2,7 +2,7 @@
 
 
 
-  ![License](https://img.shields.io/github/license/Wuji00000/Python-Discord-Bot-Template?style=for-the-badge&color=blue)
+
   ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?style=for-the-badge&logo=python&logoColor=white)
   ![Discord.py](https://img.shields.io/badge/Discord.py-2.0%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![AI Powered](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
